@@ -1,0 +1,22 @@
+
+{
+  "name": "中正競賽智匯通 - 大專生競賽資訊平台",
+  "short_name": "競賽智匯通",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/4f46e5/ffffff?text=CCU",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/4f46e5/ffffff?text=CCU",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
